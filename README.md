@@ -4,8 +4,11 @@ ___
 # 📚Contenidos
 ## Tema 1:  Introducción al diseño y programación orientado a objetos. [Link]()
 -Conceptos básicos de la POO
+
 -Lenguajes OO
+
 -El lenguaje UML (diagramas de Clases y Objetos)
+
 -Ambiente de programación OO (Java y Python)
 
 
