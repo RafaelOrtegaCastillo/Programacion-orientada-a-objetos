@@ -4,7 +4,7 @@
 Repositorio dedicado al curso de programacion orientado a objetos.
 ___
 # 📚Contenidos
-## Tema 1:  Introducción al diseño y programación orientado a objetos. [Link]()
+## Tema 1:  Introducción al diseño y programación orientado a objetos. [Link](./Introducción al diseño y programación orientado a objetos.)
 -Conceptos básicos de la POO
 
 -Lenguajes OO
